@@ -8,3 +8,7 @@ Installation is very simple, just do the following;
 
 #### Time Triggers
 Dark mode will be enabled between 8PM and 7AM.
+
+#### Manually Calling Dark Or Lightmode
+1. To call dark mode, simply call <code>ActivateDarkMode();</code> in a script section of your website or on a click event.
+2. To call light mode, simply call <code>ActivateLightMode();</code> in a script section of your website or on a click event.
