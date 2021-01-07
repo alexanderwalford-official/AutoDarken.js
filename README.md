@@ -12,3 +12,6 @@ Dark mode will be enabled between 8PM and 7AM.
 #### Manually Calling Dark Or Light Mode
 1. To call dark mode, simply call <code>ActivateDarkMode();</code> in a script section of your website or on a click event.
 2. To call light mode, simply call <code>ActivateLightMode();</code> in a script section of your website or on a click event.
+
+#### Codepen Example
+https://codepen.io/alexander-walford/pen/mdrKgeb
